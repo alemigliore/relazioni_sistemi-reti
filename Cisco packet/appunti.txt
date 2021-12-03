@@ -1,0 +1,16 @@
+Comandi cmp
+
+configurare ip windows: ipconfig
+
+Cisco packet
+
+Scheda di rete = NIC (network internet card)
+_IP addres, attribuito sulla rete
+_MAC addres, detto indirizzo fisico, rimane sempre invariato, proprietà fisica della scheda di rete
+
+switch più intelligente dell hub perchè impara dove deve mandare l' informazione memorizzandola nel mac table, il suo utilizzo migliora la rete.
+
+relazione:
+1) Introduzione
+2) Inserire immagini
+3) Test e immagini
